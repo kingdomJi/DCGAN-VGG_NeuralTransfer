@@ -1,0 +1,18 @@
+ # 开头的便是注释。
+*.pyc
+data/
+__pycache__/
+checkpoints/
+*.pth
+*.jpg
+venv/
+.idea/
+wandb/
+dataset/
+results/
+samples/
+checkpoint/
+
+Cracks/
+out/
+logs/
